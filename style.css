@@ -1,0 +1,24 @@
+.main{
+    text-align: center;
+    height: 300px;
+    width: 550px;
+    border: 2px solid black;
+    transform: translate(500px,200px);
+    background-color: orange;
+}
+input{
+    margin: 10px 10px 10px 5px;
+    width: 100px;
+}
+option{
+    padding: 5px;
+}
+button{
+    margin: 25px 15px 45px 15px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+#result{
+    color: rgb(77, 41, 41);
+    font-size: 25px;
+}
